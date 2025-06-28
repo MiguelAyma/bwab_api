@@ -1,0 +1,12 @@
+/env
+**/__pycache__/
+/__pycache__/
+app/data/__pycache__/
+app/models/__pycache__/
+app/service/__pycache__/
+app/schemas/__pycache__/
+app/core/__pycache__/
+credenciales_firebase.json
+.env
+/utils/__pycache__/
+
