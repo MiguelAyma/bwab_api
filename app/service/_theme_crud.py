@@ -66,6 +66,8 @@ def get_theme_service(theme_id: int, db: Session) -> ThemeResponse:
             theme_id=theme.theme_id,
             user_id=theme.user_id,
             title=theme.title,
+            description=theme.description,
+            keep_content=theme.keep_content,
             content=theme.content,
             progress=theme.progress,
             num_stages=theme.num_stages,
@@ -76,7 +78,7 @@ def get_theme_service(theme_id: int, db: Session) -> ThemeResponse:
         raise_app_error(
             error_code="ThemeNotFound",
             message="Theme not found.",
-            error_type="VALIDATION",
+            error_type=ErrorType.VALIDATION,
             status_code=404,
             details=f"theme_id: {theme_id}"
         )
@@ -84,7 +86,7 @@ def get_theme_service(theme_id: int, db: Session) -> ThemeResponse:
         raise_app_error(
             error_code="ThemeServiceError",
             message="Failed to get Theme in service layer.",
-            error_type="SERVICE",
+            error_type=ErrorType.SERVICE,
             details=str(e)
         )
 
@@ -119,6 +121,8 @@ def get_themes_per_user_service(db: Session, user_id: str) -> List[ThemeResponse
                 theme_id=theme.theme_id,
                 user_id=theme.user_id,
                 title=theme.title,
+                description=theme.description,
+                keep_content=theme.keep_content,
                 content=theme.content,
                 progress=theme.progress,
                 num_stages=theme.num_stages,

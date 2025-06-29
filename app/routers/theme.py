@@ -69,7 +69,6 @@ def get_theme_with_stages(
         
 @router.get("/all-themes/", response_model=List[ThemeResponse])        
 def get_all_themes_per_user(
-    #user_id="mX7QnagfucOIGRCshipiJUWhHzV2",
     db: Session = Depends(get_db),
     user_id: str = Depends(get_current_user)
 ) -> List[ThemeResponse]:
