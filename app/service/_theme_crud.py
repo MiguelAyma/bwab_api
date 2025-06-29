@@ -1,3 +1,5 @@
+from typing import List
+from fastapi import HTTPException
 from pyparsing import Optional
 from sqlalchemy.orm import Session
 
@@ -5,7 +7,7 @@ from app.schemas._error import ErrorType, raise_app_error
 from app.schemas._roadmap_stage import RoadmapStageResponse
 from app.schemas._theme import ThemeBase, ThemeComplete, ThemeCreate, ThemeUpdate, ThemeResponse, ThemeNotFoundError
 from app.models.sql_alchemy_models import Theme
-from app.data._theme_crud import create_theme_data, get_theme_by_id_data
+from app.data._theme_crud import create_theme_data, get_theme_by_id_data, get_themes_per_user_data
 
 def generate_default_content(title: str, description: str) -> str:
     return f"Contenido generado automáticamente para el tema   Contenidos: contenido4, contenido5, contenido6, contenido7, contenido8, contenido9, contenido10 '{title}'. Descripción: {description}."
@@ -95,11 +97,46 @@ def get_complete_theme_by_id(theme_id: int, db: Session) -> ThemeComplete:
             message=f"Theme with ID {theme_id} not found.",
             error_type=ErrorType.DATA,
         )
-
+        
     return ThemeComplete(
         theme_data=ThemeResponse.model_validate(theme),
         roadmap_stages=[RoadmapStageResponse.model_validate(stage) for stage in theme.roadmap_stages]
     )
 
+def get_themes_per_user_service(db: Session, user_id: str) -> List[ThemeResponse]:
+    try:
+        themes: List[Theme] = get_themes_per_user_data(user_id, db)
+        
+        if not themes:
+            raise HTTPException(
+                status_code=404,
+                detail=f"No themes found for this user"
+            )
+        
+        # Convertir todos los registros de SQLAlchemy a Pydantic
+        return [
+            ThemeResponse(
+                theme_id=theme.theme_id,
+                user_id=theme.user_id,
+                title=theme.title,
+                content=theme.content,
+                progress=theme.progress,
+                num_stages=theme.num_stages,
+                created_at=theme.created_at,
+                updated_at=theme.updated_at
+            )
+            for theme in themes
+        ]
+        
+    except HTTPException:
+        raise
+    except Exception as e:
+        # Manejar otros errores inesperados
+        raise_app_error(
+            error_code="THEME_SERVICE_ERROR",
+            message="Failed to retrieve themes in service layer.",
+            error_type=ErrorType.SERVICE,
+            details=str(e)
+        )
 
 
