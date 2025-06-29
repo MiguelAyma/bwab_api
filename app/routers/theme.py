@@ -14,9 +14,9 @@ router = APIRouter()
 @router.post("/", response_model=ThemeResponse)
 async def insert_theme(
     theme: ThemeBase,
-    user_id="mX7QnagfucOIGRCshipiJUWhHzV2",
+    #user_id="mX7QnagfucOIGRCshipiJUWhHzV2",
     db: Session = Depends(get_db),
-    #user_id: str = Depends(get_current_user),
+    user_id: str = Depends(get_current_user),
 ) -> ThemeResponse:
     try:
         return create_theme_service(theme_create=theme, db=db, user_id=user_id)
@@ -47,10 +47,11 @@ async def get_theme_by_id(
         )
 
 
-@router.get("/test/{theme_id}", response_model=ThemeComplete)
+@router.get("/{theme_id}/stages", response_model=ThemeComplete)
 def get_theme_with_stages(
     theme_id: int,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    user_id: str = Depends(get_current_user)
 ):
     try:
         return get_complete_theme_by_id(theme_id, db)
