@@ -1,0 +1,173 @@
+============================================================
+GOOGLE ADK AGENT OUTPUT EXPORT
+============================================================
+
+Timestamp: 2025-06-28T18:41:07.698328
+Agent Name: generate_theme_agent
+Invocation ID: e-90dc6e87-420e-46c5-a97a-66e52225709d
+Export File: agent_output_generate_theme_agent_20250628_184107.txt
+
+----------------------------------------
+SESSION STATE:
+----------------------------------------
+{
+  "document_result": "¡Hola! ¡Qué tema tan fascinante! La conexión entre la música y la comprensión del mundo animal es un campo de estudio relativamente nuevo y lleno de potencial. Vamos a crear un documento de estudio que te sirva como guía en este viaje.\n\n¡Absolutamente! Aquí tienes un documento de estudio que te servirá como introducción y guía para comprender cómo la música nos ayuda a entender a los animales:\n\n# Documento de Estudio: Sinfonías Silvestres: Descifrando la Música del Reino Animal\n\n## Tabla de Contenido\n\n1.  Introducción al Tema\n    *   ¿Qué es la \"Música\" Animal?\n    *   ¿Por qué es importante entender la comunicación animal a través del sonido?\n    *   Breve Historia y Contexto\n2.  Conceptos Fundamentales\n    *   Bioacústica\n    *   Comunicación Animal\n    *   Cognición Musical en Animales\n    *   Rango Auditivo y Percepción\n    *   Ecolocalización\n    *   \"Música Específica de la Especie\"\n3.  Desarrollo Profundo y Subtemas\n    *   El Impacto de la Música Humana en Animales\n    *   Monitoreo de la Biodiversidad a través de Sonido\n    *   Musicoterapia Animal\n4.  Aplicaciones Prácticas y Casos de Estudio\n    *   Uso de la Música en Refugios y Zoológicos\n    *   Investigación del Comportamiento Animal\n    *   Música para Mascotas Domésticas\n5.  Glosario de Términos Clave\n6.  Resumen de Puntos Clave\n7.  Pasos Siguientes y Recursos para Profundizar\n8.  Fuentes Consultadas\n\n### 1. Introducción al Tema\n\n*   **¿Qué es la \"Música\" Animal?** La \"música\" en el contexto animal se refiere a las vocalizaciones, cantos, chirridos y otros sonidos que los animales utilizan para comunicarse, expresar emociones, atraer parejas, defender territorios, alertar sobre peligros y coordinar comportamientos grupales. Estos sonidos no siempre se ajustan a la definición humana tradicional de música, pero cumplen funciones similares de comunicación y expresión.\n*   **¿Por qué es importante?** Entender la comunicación animal a través del sonido es crucial por varias razones:\n    *   **Conservación:** Permite monitorear la biodiversidad, estudiar el impacto de las actividades humanas en la fauna y desarrollar estrategias de conservación más efectivas.\n    *   **Bienestar Animal:** Ayuda a comprender cómo la música y los sonidos afectan el comportamiento y el estrés de los animales, mejorando su calidad de vida en cautiverio y en el hogar.\n    *   **Cognición Animal:** Ofrece información sobre las capacidades cognitivas de los animales, como su percepción del ritmo, reconocimiento de patrones musicales y respuestas emocionales a la música.\n    *   **Comunicación:** Facilita la comprensión de los mensajes que los animales transmiten a través de sus vocalizaciones, mejorando nuestra capacidad para interpretar su comportamiento y necesidades.\n*   **Breve Historia y Contexto:** El estudio de la comunicación animal a través del sonido tiene raíces en la etología y la zoología. Sin embargo, en las últimas décadas, ha surgido la bioacústica como un campo interdisciplinario que combina la biología, la acústica y la tecnología para analizar y comprender los sonidos animales. Investigadores como Charles Snowden han destacado la importancia de la \"música específica de la especie\", melodías adaptadas a los rangos vocales y ritmos cardíacos de cada especie.\n\n### 2. Conceptos Fundamentales\n\n*   **Bioacústica:** Es la ciencia que estudia la producción, dispersión y recepción del sonido en los animales. Incluye el análisis de las características físicas de los sonidos, su función comunicativa y su papel en el comportamiento animal. La bioacústica se utiliza en la investigación, terapias físicas, tratamiento del estrés y educación ambiental.\n*   **Comunicación Animal:** Es el proceso por el cual los animales intercambian información a través de señales, que pueden ser visuales, olfativas, táctiles o acústicas. La comunicación acústica es fundamental en muchas especies, utilizada para alertar sobre peligros, atraer parejas y defender territorios.\n*   **Cognición Musical en Animales:** Se refiere a la capacidad de los animales para percibir, procesar y responder a la música. Estudios han demostrado que algunas especies pueden reconocer el ritmo, discriminar melodías y mostrar preferencias por ciertos géneros musicales.\n*   **Rango Auditivo y Percepción:** Cada especie animal tiene un rango auditivo específico, que determina las frecuencias de sonido que puede detectar. Los humanos perciben sonidos entre 20 Hz y 20,000 Hz, pero muchos animales pueden oír frecuencias más altas (ultrasonidos) o más bajas (infrasonidos). Por ejemplo, los perros y gatos pueden oír ultrasonidos, mientras que los elefantes pueden detectar infrasonidos.\n*   **Ecolocalización:** Es un sistema de percepción utilizado por algunos animales, como los murciélagos y los delfines, para orientarse y encontrar presas. Consiste en emitir sonidos y analizar los ecos que rebotan en los objetos, creando una \"imagen acústica\" del entorno.\n*   **\"Música Específica de la Especie\":** Se refiere a melodías diseñadas con tonos y ritmos que son familiares a una especie particular. Estas melodías tienen en cuenta los rangos vocales y ritmos cardíacos propios de cada especie, lo que las hace más atractivas y efectivas para la comunicación.\n\n### 3. Desarrollo Profundo y Subtemas\n\n*   **El Impacto de la Música Humana en Animales:** La música humana puede tener diversos efectos en los animales, dependiendo del género, el ritmo y el volumen.\n    *   La música clásica y las melodías suaves pueden reducir el estrés y la ansiedad en perros y gatos.\n    *   El reggae y el rock suave también han demostrado inducir calma en los perros.\n    *   La música con ritmos fuertes y sonidos estridentes puede causar estrés y agitación en las mascotas.\n*   **Monitoreo de la Biodiversidad a través de Sonido:** La bioacústica es una herramienta poderosa para monitorear la biodiversidad en áreas remotas. El análisis de los paisajes sonoros permite identificar especies, estimar densidades poblacionales y estudiar el impacto de las actividades humanas en la fauna.\n*   **Musicoterapia Animal:** La musicoterapia se utiliza para mejorar la salud y el bienestar de los animales. La música puede reducir el estrés, aliviar la ansiedad y mejorar el estado de ánimo en mascotas, animales de refugio y animales convalecientes.\n\n### 4. Aplicaciones Prácticas y Casos de Estudio\n\n*   **Uso de la Música en Refugios y Zoológicos:** La música se utiliza en refugios y zoológicos para crear un ambiente más tranquilo y reducir la ansiedad en los animales. Esto puede mejorar su salud mental y facilitar interacciones más positivas con los humanos.\n*   **Investigación del Comportamiento Animal:** Los investigadores utilizan la música y los sonidos para estudiar el comportamiento animal, incluyendo sus respuestas emocionales, preferencias musicales y capacidades cognitivas.\n*   **Música para Mascotas Domésticas:** Los dueños de mascotas pueden utilizar la música para calmar a sus animales en situaciones estresantes, como tormentas, fuegos artificiales o visitas al veterinario. También se pueden crear listas de reproducción personalizadas para enriquecer el ambiente de las mascotas y prevenir el aburrimiento.\n\n### 5. Glosario de Términos Clave\n\n*   **Bioacústica:** Estudio de la producción, dispersión y recepción del sonido en los animales.\n*   **Comunicación Animal:** Intercambio de información entre animales a través de señales.\n*   **Cognición Musical:** Capacidad de los animales para percibir, procesar y responder a la música.\n*   **Rango Auditivo:** Conjunto de frecuencias de sonido que un animal puede detectar.\n*   **Ultrasonido:** Sonido con una frecuencia superior a 20,000 Hz, inaudible para los humanos.\n*   **Infrasonido:** Sonido con una frecuencia inferior a 20 Hz, inaudible para los humanos.\n*   **Ecolocalización:** Sistema de percepción basado en la emisión de sonidos y el análisis de los ecos.\n*   **Espectrograma:** Representación visual de las frecuencias de un sonido a lo largo del tiempo.\n*   **Vocalización:** Sonido emitido por un animal, utilizado para comunicarse.\n*   **Territorialidad:** Comportamiento de defensa de un área por parte de un animal.\n*   **Canto:** Vocalización compleja y estructurada, utilizada para atraer parejas o defender territorios.\n*   **Musicoterapia Animal:** Uso de la música para mejorar la salud y el bienestar de los animales.\n*   **Zoomusicología:** Estudio de la relación entre los animales y la música.\n*   **Biodiversidad:** Variedad de vida en un ecosistema.\n\n### 6. Resumen de Puntos Clave\n\n*   La \"música\" animal se refiere a los sonidos que los animales utilizan para comunicarse y expresar emociones.\n*   Entender la comunicación animal a través del sonido es crucial para la conservación, el bienestar animal y la investigación de la cognición animal.\n*   La bioacústica es la ciencia que estudia los sonidos animales y su papel en el comportamiento.\n*   Los animales tienen rangos auditivos específicos y pueden percibir ultrasonidos e infrasonidos.\n*   La música humana puede tener efectos positivos o negativos en los animales, dependiendo del género y el ritmo.\n*   La bioacústica es una herramienta poderosa para monitorear la biodiversidad.\n*   La musicoterapia animal se utiliza para reducir el estrés y mejorar el bienestar de los animales.\n\n### 7. Pasos Siguientes y Recursos para Profundizar\n\n*   **Temas Relacionados para Explorar:**\n    *   Evolución de la comunicación animal\n    *   Neurociencia de la música\n    *   Conservación acústica\n*   **Libros o Autores de Referencia:**\n    *   \"The Evolving Animal Orchestra\" de Henkjan Honing\n    *   \"Through a Dog's Ear\" de Susan Wagner\n*   **Recursos en Línea:**\n    *   The Bioacoustic Research Program at Cornell University: (No se pudo encontrar un enlace directo en los resultados de búsqueda, pero puedes buscarlo en Google)\n    *   The Wildlife Acoustics website: (No se pudo encontrar un enlace directo en los resultados de búsqueda, pero puedes buscarlo en Google)\n\n### 8. Fuentes Consultadas\n\n*   Grupo Lovet (2025). Efectos de la Música en las Mascotas: Beneficios y Recomendaciones.\n*   HJCK (2023). La influencia de la música en las mascotas: descubriendo sus preferencias.\n*   Hola Vet (2024). La influencia de la música en perros: ¿cómo les afecta realmente?\n*   ZION PERU CLUB. LOS EFECTOS DE LA MÚSICA EN LOS ANIMALES.\n*   J.M.Hernández. La comunicación acústica en el reino animal. Evolución de los aparatos productores y receptores de sonido.\n*   La Oca (2025). Reacción de los animales a la música: Descubre su impacto.\n*   Aon. ¿Cómo afecta la música a mis mascotas?\n*   Los sonidos de la fauna: una herramienta poderosa para monitorear la biodiversidad (2021).\n*   Delfino.cr. El interesante efecto y reacción de la música en los animales.\n*   Khan Academy. Comunicación en los animales (artículo).\n*   Agencia SINC (2020). Algunos animales pueden identificar el ritmo musical.\n*   GAES (2022). Animales con una audición extraordinaria.\n*   LibreTexts Español (2022). 9.2.4: Audición Animal.\n*   El Cronista (2024). Descubrimiento sorprendente: un grupo de neurocientíficos reveló que existe un animal que puede oler a través del sonido.\n*   Fundación secretos para contar. El lenguaje de los animales.\n*   Prezi. Comunicacion de los animales a traves de sonido.\n*   EFEverde (2020). Un estudio revela que algunos animales identifican el ritmo de las canciones.\n*   Ámbito Financiero (2024). Veterinarios revelaron que esta música es beneficiosa para los perros.\n*   Gaceta UNAM (2023). Las ciencias de la conducta animal han ido en crecimiento.\n*   Sociedad Española de Etología y Ecología Evolutiva. Bioacústica aplicada a la sistemática, conservación y manejo de poblaciones naturales de aves.\n*   StudySmarter (2024). Acústica Animal: Bioacústica & Comunicación.\n*   Animalshealth.es (2023). La música clásica facilita la sedación de los perros en veterinaria.\n*   Fundacionbatuta.org. Efectos de la música sobre las funciones cognitivas.\n*   Luis E. Vargas-Castro – LAVIS | Laboratorio de Vida Silvestre y Salud - UNED Investiga.\n*   Charla Educativa \"Bioacústica. Herramienta para la investigación y la educación ambiental\" (2023).\n*   GACETA AUDIO (2024). 7 animales con el mejor oído del planeta.\n*   Un estudio descubrió que los perros prefieren el reggae y el rock suave a otros géneros musicales (2024).\n*   La Crónica de Hoy (2024). ¿Puedes oírme?: Los sonidos no audibles en mamíferos.\n*   Aprendiendo Música a través de los Animales - EdutekaLab (2024).\n\nEspero que este documento de estudio te sea de gran utilidad. ¡No dudes en preguntar si tienes alguna otra duda!\n"
+}
+
+----------------------------------------
+CONTEXT INFORMATION:
+----------------------------------------
+Has State: True
+State Keys: ['document_result']
+
+----------------------------------------
+NOTES:
+----------------------------------------
+- Este callback se ejecuta DESPUÉS del agente
+- El output original del agente se mantiene (callback devuelve None)
+- Los datos del contexto y estado de sesión se han exportado
+- Para capturar el texto de respuesta del agente, se necesitaría
+  implementar un mecanismo adicional de captura
+
+============================================================
+END OF EXPORT
+============================================================
+fthe final report is: ¡Hola! ¡Qué tema tan fascinante! La conexión entre la música y la comprensión del mundo animal es un campo de estudio relativamente nuevo y lleno de potencial. Vamos a crear un documento de estudio que te sirva como guía en este viaje.
+
+¡Absolutamente! Aquí tienes un documento de estudio que te servirá como introducción y guía para comprender cómo la música nos ayuda a entender a los animales:
+
+# Documento de Estudio: Sinfonías Silvestres: Descifrando la Música del Reino Animal
+
+## Tabla de Contenido
+
+1.  Introducción al Tema
+    *   ¿Qué es la "Música" Animal?
+    *   ¿Por qué es importante entender la comunicación animal a través del sonido?
+    *   Breve Historia y Contexto
+2.  Conceptos Fundamentales
+    *   Bioacústica
+    *   Comunicación Animal
+    *   Cognición Musical en Animales
+    *   Rango Auditivo y Percepción
+    *   Ecolocalización
+    *   "Música Específica de la Especie"
+3.  Desarrollo Profundo y Subtemas
+    *   El Impacto de la Música Humana en Animales
+    *   Monitoreo de la Biodiversidad a través de Sonido
+    *   Musicoterapia Animal
+4.  Aplicaciones Prácticas y Casos de Estudio
+    *   Uso de la Música en Refugios y Zoológicos
+    *   Investigación del Comportamiento Animal
+    *   Música para Mascotas Domésticas
+5.  Glosario de Términos Clave
+6.  Resumen de Puntos Clave
+7.  Pasos Siguientes y Recursos para Profundizar
+8.  Fuentes Consultadas
+
+### 1. Introducción al Tema
+
+*   **¿Qué es la "Música" Animal?** La "música" en el contexto animal se refiere a las vocalizaciones, cantos, chirridos y otros sonidos que los animales utilizan para comunicarse, expresar emociones, atraer parejas, defender territorios, alertar sobre peligros y coordinar comportamientos grupales. Estos sonidos no siempre se ajustan a la definición humana tradicional de música, pero cumplen funciones similares de comunicación y expresión.
+*   **¿Por qué es importante?** Entender la comunicación animal a través del sonido es crucial por varias razones:
+    *   **Conservación:** Permite monitorear la biodiversidad, estudiar el impacto de las actividades humanas en la fauna y desarrollar estrategias de conservación más efectivas.
+    *   **Bienestar Animal:** Ayuda a comprender cómo la música y los sonidos afectan el comportamiento y el estrés de los animales, mejorando su calidad de vida en cautiverio y en el hogar.
+    *   **Cognición Animal:** Ofrece información sobre las capacidades cognitivas de los animales, como su percepción del ritmo, reconocimiento de patrones musicales y respuestas emocionales a la música.
+    *   **Comunicación:** Facilita la comprensión de los mensajes que los animales transmiten a través de sus vocalizaciones, mejorando nuestra capacidad para interpretar su comportamiento y necesidades.
+*   **Breve Historia y Contexto:** El estudio de la comunicación animal a través del sonido tiene raíces en la etología y la zoología. Sin embargo, en las últimas décadas, ha surgido la bioacústica como un campo interdisciplinario que combina la biología, la acústica y la tecnología para analizar y comprender los sonidos animales. Investigadores como Charles Snowden han destacado la importancia de la "música específica de la especie", melodías adaptadas a los rangos vocales y ritmos cardíacos de cada especie.
+
+### 2. Conceptos Fundamentales
+
+*   **Bioacústica:** Es la ciencia que estudia la producción, dispersión y recepción del sonido en los animales. Incluye el análisis de las características físicas de los sonidos, su función comunicativa y su papel en el comportamiento animal. La bioacústica se utiliza en la investigación, terapias físicas, tratamiento del estrés y educación ambiental.
+*   **Comunicación Animal:** Es el proceso por el cual los animales intercambian información a través de señales, que pueden ser visuales, olfativas, táctiles o acústicas. La comunicación acústica es fundamental en muchas especies, utilizada para alertar sobre peligros, atraer parejas y defender territorios.
+*   **Cognición Musical en Animales:** Se refiere a la capacidad de los animales para percibir, procesar y responder a la música. Estudios han demostrado que algunas especies pueden reconocer el ritmo, discriminar melodías y mostrar preferencias por ciertos géneros musicales.
+*   **Rango Auditivo y Percepción:** Cada especie animal tiene un rango auditivo específico, que determina las frecuencias de sonido que puede detectar. Los humanos perciben sonidos entre 20 Hz y 20,000 Hz, pero muchos animales pueden oír frecuencias más altas (ultrasonidos) o más bajas (infrasonidos). Por ejemplo, los perros y gatos pueden oír ultrasonidos, mientras que los elefantes pueden detectar infrasonidos.
+*   **Ecolocalización:** Es un sistema de percepción utilizado por algunos animales, como los murciélagos y los delfines, para orientarse y encontrar presas. Consiste en emitir sonidos y analizar los ecos que rebotan en los objetos, creando una "imagen acústica" del entorno.
+*   **"Música Específica de la Especie":** Se refiere a melodías diseñadas con tonos y ritmos que son familiares a una especie particular. Estas melodías tienen en cuenta los rangos vocales y ritmos cardíacos propios de cada especie, lo que las hace más atractivas y efectivas para la comunicación.
+
+### 3. Desarrollo Profundo y Subtemas
+
+*   **El Impacto de la Música Humana en Animales:** La música humana puede tener diversos efectos en los animales, dependiendo del género, el ritmo y el volumen.
+    *   La música clásica y las melodías suaves pueden reducir el estrés y la ansiedad en perros y gatos.
+    *   El reggae y el rock suave también han demostrado inducir calma en los perros.
+    *   La música con ritmos fuertes y sonidos estridentes puede causar estrés y agitación en las mascotas.
+*   **Monitoreo de la Biodiversidad a través de Sonido:** La bioacústica es una herramienta poderosa para monitorear la biodiversidad en áreas remotas. El análisis de los paisajes sonoros permite identificar especies, estimar densidades poblacionales y estudiar el impacto de las actividades humanas en la fauna.
+*   **Musicoterapia Animal:** La musicoterapia se utiliza para mejorar la salud y el bienestar de los animales. La música puede reducir el estrés, aliviar la ansiedad y mejorar el estado de ánimo en mascotas, animales de refugio y animales convalecientes.
+
+### 4. Aplicaciones Prácticas y Casos de Estudio
+
+*   **Uso de la Música en Refugios y Zoológicos:** La música se utiliza en refugios y zoológicos para crear un ambiente más tranquilo y reducir la ansiedad en los animales. Esto puede mejorar su salud mental y facilitar interacciones más positivas con los humanos.
+*   **Investigación del Comportamiento Animal:** Los investigadores utilizan la música y los sonidos para estudiar el comportamiento animal, incluyendo sus respuestas emocionales, preferencias musicales y capacidades cognitivas.
+*   **Música para Mascotas Domésticas:** Los dueños de mascotas pueden utilizar la música para calmar a sus animales en situaciones estresantes, como tormentas, fuegos artificiales o visitas al veterinario. También se pueden crear listas de reproducción personalizadas para enriquecer el ambiente de las mascotas y prevenir el aburrimiento.
+
+### 5. Glosario de Términos Clave
+
+*   **Bioacústica:** Estudio de la producción, dispersión y recepción del sonido en los animales.
+*   **Comunicación Animal:** Intercambio de información entre animales a través de señales.
+*   **Cognición Musical:** Capacidad de los animales para percibir, procesar y responder a la música.
+*   **Rango Auditivo:** Conjunto de frecuencias de sonido que un animal puede detectar.
+*   **Ultrasonido:** Sonido con una frecuencia superior a 20,000 Hz, inaudible para los humanos.
+*   **Infrasonido:** Sonido con una frecuencia inferior a 20 Hz, inaudible para los humanos.
+*   **Ecolocalización:** Sistema de percepción basado en la emisión de sonidos y el análisis de los ecos.
+*   **Espectrograma:** Representación visual de las frecuencias de un sonido a lo largo del tiempo.
+*   **Vocalización:** Sonido emitido por un animal, utilizado para comunicarse.
+*   **Territorialidad:** Comportamiento de defensa de un área por parte de un animal.
+*   **Canto:** Vocalización compleja y estructurada, utilizada para atraer parejas o defender territorios.
+*   **Musicoterapia Animal:** Uso de la música para mejorar la salud y el bienestar de los animales.
+*   **Zoomusicología:** Estudio de la relación entre los animales y la música.
+*   **Biodiversidad:** Variedad de vida en un ecosistema.
+
+### 6. Resumen de Puntos Clave
+
+*   La "música" animal se refiere a los sonidos que los animales utilizan para comunicarse y expresar emociones.
+*   Entender la comunicación animal a través del sonido es crucial para la conservación, el bienestar animal y la investigación de la cognición animal.
+*   La bioacústica es la ciencia que estudia los sonidos animales y su papel en el comportamiento.
+*   Los animales tienen rangos auditivos específicos y pueden percibir ultrasonidos e infrasonidos.
+*   La música humana puede tener efectos positivos o negativos en los animales, dependiendo del género y el ritmo.
+*   La bioacústica es una herramienta poderosa para monitorear la biodiversidad.
+*   La musicoterapia animal se utiliza para reducir el estrés y mejorar el bienestar de los animales.
+
+### 7. Pasos Siguientes y Recursos para Profundizar
+
+*   **Temas Relacionados para Explorar:**
+    *   Evolución de la comunicación animal
+    *   Neurociencia de la música
+    *   Conservación acústica
+*   **Libros o Autores de Referencia:**
+    *   "The Evolving Animal Orchestra" de Henkjan Honing
+    *   "Through a Dog's Ear" de Susan Wagner
+*   **Recursos en Línea:**
+    *   The Bioacoustic Research Program at Cornell University: (No se pudo encontrar un enlace directo en los resultados de búsqueda, pero puedes buscarlo en Google)
+    *   The Wildlife Acoustics website: (No se pudo encontrar un enlace directo en los resultados de búsqueda, pero puedes buscarlo en Google)
+
+### 8. Fuentes Consultadas
+
+*   Grupo Lovet (2025). Efectos de la Música en las Mascotas: Beneficios y Recomendaciones.
+*   HJCK (2023). La influencia de la música en las mascotas: descubriendo sus preferencias.
+*   Hola Vet (2024). La influencia de la música en perros: ¿cómo les afecta realmente?
+*   ZION PERU CLUB. LOS EFECTOS DE LA MÚSICA EN LOS ANIMALES.
+*   J.M.Hernández. La comunicación acústica en el reino animal. Evolución de los aparatos productores y receptores de sonido.
+*   La Oca (2025). Reacción de los animales a la música: Descubre su impacto.
+*   Aon. ¿Cómo afecta la música a mis mascotas?
+*   Los sonidos de la fauna: una herramienta poderosa para monitorear la biodiversidad (2021).
+*   Delfino.cr. El interesante efecto y reacción de la música en los animales.
+*   Khan Academy. Comunicación en los animales (artículo).
+*   Agencia SINC (2020). Algunos animales pueden identificar el ritmo musical.
+*   GAES (2022). Animales con una audición extraordinaria.
+*   LibreTexts Español (2022). 9.2.4: Audición Animal.
+*   El Cronista (2024). Descubrimiento sorprendente: un grupo de neurocientíficos reveló que existe un animal que puede oler a través del sonido.
+*   Fundación secretos para contar. El lenguaje de los animales.
+*   Prezi. Comunicacion de los animales a traves de sonido.
+*   EFEverde (2020). Un estudio revela que algunos animales identifican el ritmo de las canciones.
+*   Ámbito Financiero (2024). Veterinarios revelaron que esta música es beneficiosa para los perros.
+*   Gaceta UNAM (2023). Las ciencias de la conducta animal han ido en crecimiento.
+*   Sociedad Española de Etología y Ecología Evolutiva. Bioacústica aplicada a la sistemática, conservación y manejo de poblaciones naturales de aves.
+*   StudySmarter (2024). Acústica Animal: Bioacústica & Comunicación.
+*   Animalshealth.es (2023). La música clásica facilita la sedación de los perros en veterinaria.
+*   Fundacionbatuta.org. Efectos de la música sobre las funciones cognitivas.
+*   Luis E. Vargas-Castro – LAVIS | Laboratorio de Vida Silvestre y Salud - UNED Investiga.
+*   Charla Educativa "Bioacústica. Herramienta para la investigación y la educación ambiental" (2023).
+*   GACETA AUDIO (2024). 7 animales con el mejor oído del planeta.
+*   Un estudio descubrió que los perros prefieren el reggae y el rock suave a otros géneros musicales (2024).
+*   La Crónica de Hoy (2024). ¿Puedes oírme?: Los sonidos no audibles en mamíferos.
+*   Aprendiendo Música a través de los Animales - EdutekaLab (2024).
+
+Espero que este documento de estudio te sea de gran utilidad. ¡No dudes en preguntar si tienes alguna otra duda!

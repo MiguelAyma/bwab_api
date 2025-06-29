@@ -8,3 +8,5 @@ pydantic_settings
 firebase-admin
 firebase_admin
 python-jose
+google-adk
+google-geanai

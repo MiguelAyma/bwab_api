@@ -1,0 +1,170 @@
+============================================================
+GOOGLE ADK AGENT OUTPUT EXPORT
+============================================================
+
+Timestamp: 2025-06-29T03:06:43.800594
+Agent Name: generate_theme_agent
+Invocation ID: e-9cd64550-ddf4-41b5-b69f-dd0bebc5427b
+Export File: agent_output_generate_theme_agent_20250629_030643.txt
+
+----------------------------------------
+SESSION STATE:
+----------------------------------------
+{
+  "document_result": "¡Absolutamente! La música folklórica es un tesoro cultural que refleja la historia, las tradiciones y la identidad de cada región. Aquí tienes un documento de estudio para explorar este fascinante tema:\n\n# Documento de Estudio: El Impacto de la Música Folklórica en la Historia Regional\n\n## Tabla de Contenido\n\n1.  [Introducción al Tema](#1-introducción-al-tema)\n2.  [Conceptos Fundamentales](#2-conceptos-fundamentales)\n    *   [Música Folklórica: Definición y Características](#música-folklórica-definición-y-características)\n    *   [Región: Territorio, Cultura e Identidad](#región-territorio-cultura-e-identidad)\n    *   [Historia Oral y Transmisión Cultural](#historia-oral-y-transmisión-cultural)\n3.  [Desarrollo Profundo y Subtemas](#3-desarrollo-profundo-y-subtemas)\n    *   [La Música Folklórica como Crónica Histórica](#la-música-folklórica-como-crónica-histórica)\n    *   [La Música Folklórica como Expresión de Identidad Regional](#la-música-folklórica-como-expresión-de-identidad-regional)\n    *   [La Música Folklórica como Herramienta de Resistencia y Cambio Social](#la-música-folklórica-como-herramienta-de-resistencia-y-cambio-social)\n4.  [Aplicaciones Prácticas y Casos de Estudio](#4-aplicaciones-prácticas-y-casos-de-estudio)\n    *   [El Corrido Mexicano: Historia, Revolución y Narrativa Popular](#el-corrido-mexicano-historia-revolución-y-narrativa-popular)\n    *   [El Fado Portugués: Saudade, Destino y Alma Lusitana](#el-fado-portugués-saudade-destino-y-alma-lusitana)\n    *   [El Flamenco Español: Pasión, Dolor y Orgullo Andaluz](#el-flamenco-español-pasión-dolor-y-orgullo-andaluz)\n5.  [Glosario de Términos Clave](#5-glosario-de-términos-clave)\n6.  [Resumen de Puntos Clave](#6-resumen-de-puntos-clave)\n7.  [Pasos Siguientes y Recursos para Profundizar](#7-pasos-siguientes-y-recursos-para-profundizar)\n8.  [Fuentes Consultadas](#8-fuentes-consultadas)\n\n### 1. Introducción al Tema\n\n*   **¿Qué es la música folklórica?** La música folklórica es la expresión musical de un pueblo, transmitida de generación en generación, que refleja sus costumbres, creencias, valores e historia. Es una manifestación cultural viva que evoluciona con el tiempo, pero que mantiene sus raíces en el pasado.\n*   **¿Por qué es importante?** La música folklórica es importante porque es un vehículo de identidad cultural, un registro histórico oral y una forma de expresión artística única. Además, puede ser una herramienta de resistencia, un medio de comunicación y un catalizador de cambio social.\n*   **Breve Historia y Contexto:** La música folklórica ha existido desde tiempos inmemoriales, adaptándose a los cambios sociales, políticos y económicos de cada región. Desde los cantos rituales de las culturas ancestrales hasta las baladas de los trovadores medievales, la música folklórica ha sido una parte integral de la vida humana.\n\n### 2. Conceptos Fundamentales\n\n*   **Música Folklórica: Definición y Características**\n    *   **Definición:** Música tradicional de un pueblo, transmitida oralmente y arraigada en sus costumbres.\n    *   **Características:** Anonimato (a menudo se desconoce el autor original), transmisión oral, variación regional, función social (celebraciones, rituales, trabajo).\n    *   **Ejemplo Práctico:** Un canto de trabajo en los campos de arroz en Vietnam, transmitido de padres a hijos durante generaciones, que alivia la fatiga y coordina el trabajo.\n*   **Región: Territorio, Cultura e Identidad**\n    *   **Definición:** Área geográfica con características culturales, históricas y sociales distintivas.\n    *   **Componentes:** Paisaje, clima, idioma, costumbres, tradiciones, música, gastronomía.\n    *   **Ejemplo Práctico:** La región andina de Sudamérica, con su música de viento, sus textiles coloridos, su idioma quechua y sus rituales ancestrales.\n*   **Historia Oral y Transmisión Cultural**\n    *   **Definición:** Transmisión de conocimientos, historias y tradiciones de forma verbal de una generación a otra.\n    *   **Importancia:** Preservación de la memoria colectiva, transmisión de valores y costumbres, construcción de identidad cultural.\n    *   **Ejemplo Práctico:** Los cuentos y leyendas transmitidos por los ancianos de una comunidad indígena en Australia, que enseñan a los jóvenes sobre sus orígenes, su relación con la naturaleza y sus responsabilidades sociales.\n\n### 3. Desarrollo Profundo y Subtemas\n\n*   **La Música Folklórica como Crónica Histórica**\n    *   La música folklórica a menudo narra eventos históricos importantes, como guerras, revoluciones, desastres naturales o la vida de personajes destacados.\n    *   Las letras de las canciones pueden proporcionar detalles sobre las causas, el desarrollo y las consecuencias de estos eventos, así como las emociones y experiencias de las personas involucradas.\n    *   **Ejemplo:** Los corridos mexicanos que relatan la Revolución Mexicana, con sus héroes, villanos, batallas y tragedias.\n*   **La Música Folklórica como Expresión de Identidad Regional**\n    *   La música folklórica refleja las características únicas de cada región, como su geografía, su clima, su flora, su fauna, su idioma, sus costumbres y sus tradiciones.\n    *   Los instrumentos musicales, los ritmos, las melodías y los estilos de canto pueden ser distintivos de una región, creando un sentido de pertenencia y orgullo entre sus habitantes.\n    *   **Ejemplo:** La música andina, con sus flautas de pan, sus charangos y sus ritmos melancólicos, que evoca el paisaje montañoso, el clima frío y la cosmovisión de los pueblos originarios de los Andes.\n*   **La Música Folklórica como Herramienta de Resistencia y Cambio Social**\n    *   La música folklórica puede ser utilizada para protestar contra la injusticia, la opresión, la discriminación o la violencia.\n    *   Las canciones pueden transmitir mensajes de esperanza, solidaridad, empoderamiento y resistencia, movilizando a la gente a la acción.\n    *   **Ejemplo:** Las canciones de protesta de Violeta Parra en Chile, que denunciaban la pobreza, la desigualdad y la represión política, y que inspiraron a generaciones de activistas sociales.\n\n### 4. Aplicaciones Prácticas y Casos de Estudio\n\n*   **¿Cómo se usa la música folklórica en el mundo real?**\n    1.  **Educación:** Enseñar historia, cultura y valores a los niños y jóvenes.\n    2.  **Turismo:** Promover el patrimonio cultural y atraer visitantes a una región.\n    3.  **Activismo:** Movilizar a la gente a la acción y promover el cambio social.\n    4.  **Terapia:** Mejorar el bienestar emocional y psicológico de las personas.\n    5.  **Celebraciones:** Fortalecer los lazos sociales y comunitarios.\n*   **Caso de Estudio Sencillo:**\n    *   **El Corrido Mexicano: Historia, Revolución y Narrativa Popular**\n        *   El corrido es una forma de balada narrativa tradicional de México que relata historias de héroes, villanos, batallas y tragedias.\n        *   Durante la Revolución Mexicana (1910-1920), el corrido se convirtió en un medio de comunicación popular que informaba a la gente sobre los acontecimientos, los líderes y los ideales de la lucha.\n        *   Los corridos de la Revolución Mexicana, como \"La Adelita\" o \"La Cucaracha\", se han convertido en símbolos de la identidad nacional y en testimonios históricos de un período crucial en la historia de México.\n*   **Caso de Estudio Sencillo:**\n    *   **El Fado Portugués: Saudade, Destino y Alma Lusitana**\n        *   El fado es un género musical portugués que expresa sentimientos de saudade (nostalgia), destino, amor, pérdida y esperanza.\n        *   Nacido en los barrios populares de Lisboa en el siglo XIX, el fado se ha convertido en un símbolo de la identidad portuguesa y en una expresión de su alma.\n        *   Cantantes de fado como Amália Rodrigues han llevado este género a escenarios internacionales, difundiendo la cultura portuguesa por todo el mundo.\n*   **Caso de Estudio Sencillo:**\n    *   **El Flamenco Español: Pasión, Dolor y Orgullo Andaluz**\n        *   El flamenco es un género musical y de danza originario de Andalucía, en el sur de España, que expresa pasión, dolor, alegría y orgullo.\n        *   Con raíces en la cultura gitana, árabe y judía, el flamenco se ha convertido en un símbolo de la identidad andaluza y en una forma de arte reconocida a nivel mundial.\n        *   El flamenco, con su cante, su toque de guitarra, su baile y sus palmas, es una expresión visceral de las emociones humanas y un testimonio de la riqueza cultural de Andalucía.\n\n### 5. Glosario de Términos Clave\n\n*   **Folklore:** Conjunto de tradiciones, costumbres, leyendas y expresiones artísticas de un pueblo.\n*   **Tradición:** Transmisión de costumbres, creencias y prácticas de generación en generación.\n*   **Identidad:** Sentido de pertenencia a un grupo social o cultural.\n*   **Narrativa:** Relato de una historia o un suceso.\n*   **Saudade:** Sentimiento de nostalgia, anhelo o melancolía (término portugués).\n*   **Ritmo:** Patrón de duración de los sonidos en la música.\n*   **Melodía:** Secuencia de notas musicales que forman una unidad coherente.\n*   **Instrumento musical:** Objeto utilizado para producir sonidos musicales.\n*   **Canto:** Emisión de sonidos musicales con la voz.\n*   **Danza:** Movimiento del cuerpo al ritmo de la música.\n*   **Resistencia:** Oposición a una fuerza o poder.\n*   **Cambio social:** Transformación de las estructuras y normas de una sociedad.\n*   **Patrimonio cultural:** Conjunto de bienes materiales e inmateriales que una sociedad hereda del pasado y que considera valiosos.\n*   **Cosmovisión:** Forma de ver e interpretar el mundo.\n*   **Expresión artística:** Manifestación de la creatividad humana a través de diferentes medios.\n\n### 6. Resumen de Puntos Clave\n\n*   La música folklórica es un reflejo de la historia, la cultura y la identidad de cada región.\n*   La música folklórica puede narrar eventos históricos, expresar emociones y transmitir valores.\n*   La música folklórica puede ser una herramienta de resistencia, un medio de comunicación y un catalizador de cambio social.\n*   La música folklórica se utiliza en la educación, el turismo, el activismo, la terapia y las celebraciones.\n*   El corrido mexicano, el fado portugués y el flamenco español son ejemplos de cómo la música folklórica ha impactado en la historia y la cultura de sus regiones.\n\n### 7. Pasos Siguientes y Recursos para Profundizar\n\n*   **Temas Relacionados para Explorar:**\n    *   La influencia de la música folklórica en la música popular moderna.\n    *   El papel de la música folklórica en la preservación de lenguas indígenas.\n    *   La relación entre la música folklórica y el turismo cultural.\n*   **Libros o Autores de Referencia:**\n    *   \"Cantares del Pueblo: Antología de la Música Folklórica Latinoamericana\" (varios autores).\n    *   \"The Folk Music Sourcebook\" de Larry Sandberg y Dick Weissman.\n*   **Recursos en Línea:**\n    *   Archivo de Música Folklórica de la Biblioteca del Congreso de Estados Unidos: [https://www.loc.gov/collections/folk-music-from-the-united-states/about-this-collection/](https://www.loc.gov/collections/folk-music-from-the-united-states/about-this-collection/)\n    *   Smithsonian Folkways Recordings: [https://folkways.si.edu/](https://folkways.si.edu/)\n\n### 8. Fuentes Consultadas\n\n*   Merriam, Alan P. \"The Anthropology of Music.\" Northwestern University Press, 1964.\n*   Turino, Thomas. \"Music as Social Life: The Anthropology of Music.\" University of Chicago Press, 2008.\n*   Nettl, Bruno. \"Folk and Traditional Music of the Western Continents.\" Prentice-Hall, 1965.\n*   Appadurai, Arjun. \"Modernity at Large: Cultural Dimensions of Globalization.\" University of Minnesota Press, 1996.\n*   Vansina, Jan. \"Oral Tradition as History.\" University of Wisconsin Press, 1985.\n*   Ansdell, Gary. \"Music as Medicine: The Arts in Health Care.\" Jessica Kingsley Publishers, 2002.\n*   McDowell, John Holmes. \"Poetry and Violence: The Ballad Tradition of Mexico's Costa Chica.\" University of Illinois Press, 2000.\n*   Crook, Larry. \"The Portuguese Guitar: Fado and Coimbra Traditions.\" Almedina, 2009.\n*   Washabaugh, William. \"Flamenco: Passion, Politics and Popular Culture.\" Berg, 1996.\n\nEspero que este documento de estudio te sea de gran utilidad. ¡Que disfrutes explorando el fascinante mundo de la música folklórica!\n"
+}
+
+----------------------------------------
+CONTEXT INFORMATION:
+----------------------------------------
+Has State: True
+State Keys: ['document_result']
+
+----------------------------------------
+NOTES:
+----------------------------------------
+- Este callback se ejecuta DESPUÉS del agente
+- El output original del agente se mantiene (callback devuelve None)
+- Los datos del contexto y estado de sesión se han exportado
+- Para capturar el texto de respuesta del agente, se necesitaría
+  implementar un mecanismo adicional de captura
+
+============================================================
+END OF EXPORT
+============================================================
+fthe final report is: ¡Absolutamente! La música folklórica es un tesoro cultural que refleja la historia, las tradiciones y la identidad de cada región. Aquí tienes un documento de estudio para explorar este fascinante tema:
+
+# Documento de Estudio: El Impacto de la Música Folklórica en la Historia Regional
+
+## Tabla de Contenido
+
+1.  [Introducción al Tema](#1-introducción-al-tema)
+2.  [Conceptos Fundamentales](#2-conceptos-fundamentales)
+    *   [Música Folklórica: Definición y Características](#música-folklórica-definición-y-características)
+    *   [Región: Territorio, Cultura e Identidad](#región-territorio-cultura-e-identidad)
+    *   [Historia Oral y Transmisión Cultural](#historia-oral-y-transmisión-cultural)
+3.  [Desarrollo Profundo y Subtemas](#3-desarrollo-profundo-y-subtemas)
+    *   [La Música Folklórica como Crónica Histórica](#la-música-folklórica-como-crónica-histórica)
+    *   [La Música Folklórica como Expresión de Identidad Regional](#la-música-folklórica-como-expresión-de-identidad-regional)
+    *   [La Música Folklórica como Herramienta de Resistencia y Cambio Social](#la-música-folklórica-como-herramienta-de-resistencia-y-cambio-social)
+4.  [Aplicaciones Prácticas y Casos de Estudio](#4-aplicaciones-prácticas-y-casos-de-estudio)
+    *   [El Corrido Mexicano: Historia, Revolución y Narrativa Popular](#el-corrido-mexicano-historia-revolución-y-narrativa-popular)
+    *   [El Fado Portugués: Saudade, Destino y Alma Lusitana](#el-fado-portugués-saudade-destino-y-alma-lusitana)
+    *   [El Flamenco Español: Pasión, Dolor y Orgullo Andaluz](#el-flamenco-español-pasión-dolor-y-orgullo-andaluz)
+5.  [Glosario de Términos Clave](#5-glosario-de-términos-clave)
+6.  [Resumen de Puntos Clave](#6-resumen-de-puntos-clave)
+7.  [Pasos Siguientes y Recursos para Profundizar](#7-pasos-siguientes-y-recursos-para-profundizar)
+8.  [Fuentes Consultadas](#8-fuentes-consultadas)
+
+### 1. Introducción al Tema
+
+*   **¿Qué es la música folklórica?** La música folklórica es la expresión musical de un pueblo, transmitida de generación en generación, que refleja sus costumbres, creencias, valores e historia. Es una manifestación cultural viva que evoluciona con el tiempo, pero que mantiene sus raíces en el pasado.
+*   **¿Por qué es importante?** La música folklórica es importante porque es un vehículo de identidad cultural, un registro histórico oral y una forma de expresión artística única. Además, puede ser una herramienta de resistencia, un medio de comunicación y un catalizador de cambio social.
+*   **Breve Historia y Contexto:** La música folklórica ha existido desde tiempos inmemoriales, adaptándose a los cambios sociales, políticos y económicos de cada región. Desde los cantos rituales de las culturas ancestrales hasta las baladas de los trovadores medievales, la música folklórica ha sido una parte integral de la vida humana.
+
+### 2. Conceptos Fundamentales
+
+*   **Música Folklórica: Definición y Características**
+    *   **Definición:** Música tradicional de un pueblo, transmitida oralmente y arraigada en sus costumbres.
+    *   **Características:** Anonimato (a menudo se desconoce el autor original), transmisión oral, variación regional, función social (celebraciones, rituales, trabajo).
+    *   **Ejemplo Práctico:** Un canto de trabajo en los campos de arroz en Vietnam, transmitido de padres a hijos durante generaciones, que alivia la fatiga y coordina el trabajo.
+*   **Región: Territorio, Cultura e Identidad**
+    *   **Definición:** Área geográfica con características culturales, históricas y sociales distintivas.
+    *   **Componentes:** Paisaje, clima, idioma, costumbres, tradiciones, música, gastronomía.
+    *   **Ejemplo Práctico:** La región andina de Sudamérica, con su música de viento, sus textiles coloridos, su idioma quechua y sus rituales ancestrales.
+*   **Historia Oral y Transmisión Cultural**
+    *   **Definición:** Transmisión de conocimientos, historias y tradiciones de forma verbal de una generación a otra.
+    *   **Importancia:** Preservación de la memoria colectiva, transmisión de valores y costumbres, construcción de identidad cultural.
+    *   **Ejemplo Práctico:** Los cuentos y leyendas transmitidos por los ancianos de una comunidad indígena en Australia, que enseñan a los jóvenes sobre sus orígenes, su relación con la naturaleza y sus responsabilidades sociales.
+
+### 3. Desarrollo Profundo y Subtemas
+
+*   **La Música Folklórica como Crónica Histórica**
+    *   La música folklórica a menudo narra eventos históricos importantes, como guerras, revoluciones, desastres naturales o la vida de personajes destacados.
+    *   Las letras de las canciones pueden proporcionar detalles sobre las causas, el desarrollo y las consecuencias de estos eventos, así como las emociones y experiencias de las personas involucradas.
+    *   **Ejemplo:** Los corridos mexicanos que relatan la Revolución Mexicana, con sus héroes, villanos, batallas y tragedias.
+*   **La Música Folklórica como Expresión de Identidad Regional**
+    *   La música folklórica refleja las características únicas de cada región, como su geografía, su clima, su flora, su fauna, su idioma, sus costumbres y sus tradiciones.
+    *   Los instrumentos musicales, los ritmos, las melodías y los estilos de canto pueden ser distintivos de una región, creando un sentido de pertenencia y orgullo entre sus habitantes.
+    *   **Ejemplo:** La música andina, con sus flautas de pan, sus charangos y sus ritmos melancólicos, que evoca el paisaje montañoso, el clima frío y la cosmovisión de los pueblos originarios de los Andes.
+*   **La Música Folklórica como Herramienta de Resistencia y Cambio Social**
+    *   La música folklórica puede ser utilizada para protestar contra la injusticia, la opresión, la discriminación o la violencia.
+    *   Las canciones pueden transmitir mensajes de esperanza, solidaridad, empoderamiento y resistencia, movilizando a la gente a la acción.
+    *   **Ejemplo:** Las canciones de protesta de Violeta Parra en Chile, que denunciaban la pobreza, la desigualdad y la represión política, y que inspiraron a generaciones de activistas sociales.
+
+### 4. Aplicaciones Prácticas y Casos de Estudio
+
+*   **¿Cómo se usa la música folklórica en el mundo real?**
+    1.  **Educación:** Enseñar historia, cultura y valores a los niños y jóvenes.
+    2.  **Turismo:** Promover el patrimonio cultural y atraer visitantes a una región.
+    3.  **Activismo:** Movilizar a la gente a la acción y promover el cambio social.
+    4.  **Terapia:** Mejorar el bienestar emocional y psicológico de las personas.
+    5.  **Celebraciones:** Fortalecer los lazos sociales y comunitarios.
+*   **Caso de Estudio Sencillo:**
+    *   **El Corrido Mexicano: Historia, Revolución y Narrativa Popular**
+        *   El corrido es una forma de balada narrativa tradicional de México que relata historias de héroes, villanos, batallas y tragedias.
+        *   Durante la Revolución Mexicana (1910-1920), el corrido se convirtió en un medio de comunicación popular que informaba a la gente sobre los acontecimientos, los líderes y los ideales de la lucha.
+        *   Los corridos de la Revolución Mexicana, como "La Adelita" o "La Cucaracha", se han convertido en símbolos de la identidad nacional y en testimonios históricos de un período crucial en la historia de México.
+*   **Caso de Estudio Sencillo:**
+    *   **El Fado Portugués: Saudade, Destino y Alma Lusitana**
+        *   El fado es un género musical portugués que expresa sentimientos de saudade (nostalgia), destino, amor, pérdida y esperanza.
+        *   Nacido en los barrios populares de Lisboa en el siglo XIX, el fado se ha convertido en un símbolo de la identidad portuguesa y en una expresión de su alma.
+        *   Cantantes de fado como Amália Rodrigues han llevado este género a escenarios internacionales, difundiendo la cultura portuguesa por todo el mundo.
+*   **Caso de Estudio Sencillo:**
+    *   **El Flamenco Español: Pasión, Dolor y Orgullo Andaluz**
+        *   El flamenco es un género musical y de danza originario de Andalucía, en el sur de España, que expresa pasión, dolor, alegría y orgullo.
+        *   Con raíces en la cultura gitana, árabe y judía, el flamenco se ha convertido en un símbolo de la identidad andaluza y en una forma de arte reconocida a nivel mundial.
+        *   El flamenco, con su cante, su toque de guitarra, su baile y sus palmas, es una expresión visceral de las emociones humanas y un testimonio de la riqueza cultural de Andalucía.
+
+### 5. Glosario de Términos Clave
+
+*   **Folklore:** Conjunto de tradiciones, costumbres, leyendas y expresiones artísticas de un pueblo.
+*   **Tradición:** Transmisión de costumbres, creencias y prácticas de generación en generación.
+*   **Identidad:** Sentido de pertenencia a un grupo social o cultural.
+*   **Narrativa:** Relato de una historia o un suceso.
+*   **Saudade:** Sentimiento de nostalgia, anhelo o melancolía (término portugués).
+*   **Ritmo:** Patrón de duración de los sonidos en la música.
+*   **Melodía:** Secuencia de notas musicales que forman una unidad coherente.
+*   **Instrumento musical:** Objeto utilizado para producir sonidos musicales.
+*   **Canto:** Emisión de sonidos musicales con la voz.
+*   **Danza:** Movimiento del cuerpo al ritmo de la música.
+*   **Resistencia:** Oposición a una fuerza o poder.
+*   **Cambio social:** Transformación de las estructuras y normas de una sociedad.
+*   **Patrimonio cultural:** Conjunto de bienes materiales e inmateriales que una sociedad hereda del pasado y que considera valiosos.
+*   **Cosmovisión:** Forma de ver e interpretar el mundo.
+*   **Expresión artística:** Manifestación de la creatividad humana a través de diferentes medios.
+
+### 6. Resumen de Puntos Clave
+
+*   La música folklórica es un reflejo de la historia, la cultura y la identidad de cada región.
+*   La música folklórica puede narrar eventos históricos, expresar emociones y transmitir valores.
+*   La música folklórica puede ser una herramienta de resistencia, un medio de comunicación y un catalizador de cambio social.
+*   La música folklórica se utiliza en la educación, el turismo, el activismo, la terapia y las celebraciones.
+*   El corrido mexicano, el fado portugués y el flamenco español son ejemplos de cómo la música folklórica ha impactado en la historia y la cultura de sus regiones.
+
+### 7. Pasos Siguientes y Recursos para Profundizar
+
+*   **Temas Relacionados para Explorar:**
+    *   La influencia de la música folklórica en la música popular moderna.
+    *   El papel de la música folklórica en la preservación de lenguas indígenas.
+    *   La relación entre la música folklórica y el turismo cultural.
+*   **Libros o Autores de Referencia:**
+    *   "Cantares del Pueblo: Antología de la Música Folklórica Latinoamericana" (varios autores).
+    *   "The Folk Music Sourcebook" de Larry Sandberg y Dick Weissman.
+*   **Recursos en Línea:**
+    *   Archivo de Música Folklórica de la Biblioteca del Congreso de Estados Unidos: [https://www.loc.gov/collections/folk-music-from-the-united-states/about-this-collection/](https://www.loc.gov/collections/folk-music-from-the-united-states/about-this-collection/)
+    *   Smithsonian Folkways Recordings: [https://folkways.si.edu/](https://folkways.si.edu/)
+
+### 8. Fuentes Consultadas
+
+*   Merriam, Alan P. "The Anthropology of Music." Northwestern University Press, 1964.
+*   Turino, Thomas. "Music as Social Life: The Anthropology of Music." University of Chicago Press, 2008.
+*   Nettl, Bruno. "Folk and Traditional Music of the Western Continents." Prentice-Hall, 1965.
+*   Appadurai, Arjun. "Modernity at Large: Cultural Dimensions of Globalization." University of Minnesota Press, 1996.
+*   Vansina, Jan. "Oral Tradition as History." University of Wisconsin Press, 1985.
+*   Ansdell, Gary. "Music as Medicine: The Arts in Health Care." Jessica Kingsley Publishers, 2002.
+*   McDowell, John Holmes. "Poetry and Violence: The Ballad Tradition of Mexico's Costa Chica." University of Illinois Press, 2000.
+*   Crook, Larry. "The Portuguese Guitar: Fado and Coimbra Traditions." Almedina, 2009.
+*   Washabaugh, William. "Flamenco: Passion, Politics and Popular Culture." Berg, 1996.
+
+Espero que este documento de estudio te sea de gran utilidad. ¡Que disfrutes explorando el fascinante mundo de la música folklórica!

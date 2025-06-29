@@ -1,0 +1,32 @@
+============================================================
+GOOGLE ADK AGENT OUTPUT EXPORT
+============================================================
+
+Timestamp: 2025-06-28T16:35:58.347976
+Agent Name: generate_theme_agent
+Invocation ID: e-8bf6be70-78e7-4ced-b9c0-3e6acccd94f9
+Export File: agent_output_generate_theme_agent_20250628_163558.txt
+
+----------------------------------------
+SESSION STATE:
+----------------------------------------
+No session state available
+
+----------------------------------------
+CONTEXT INFORMATION:
+----------------------------------------
+Has State: False
+State Keys: []
+
+----------------------------------------
+NOTES:
+----------------------------------------
+- Este callback se ejecuta DESPUÉS del agente
+- El output original del agente se mantiene (callback devuelve None)
+- Los datos del contexto y estado de sesión se han exportado
+- Para capturar el texto de respuesta del agente, se necesitaría
+  implementar un mecanismo adicional de captura
+
+============================================================
+END OF EXPORT
+============================================================
