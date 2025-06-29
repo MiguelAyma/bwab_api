@@ -20,9 +20,8 @@ router = APIRouter()
 @router.post("/", response_model=RoadmapStageResponse)
 async def insert_roadmap_stage(
     roadmap_stage: RoadmapStageBase,
-    user_id="mX7QnagfucOIGRCshipiJUWhHzV2",
     db: Session = Depends(get_db),
-    #ser_id: str = Depends(get_current_user), 
+    user_id: str = Depends(get_current_user), 
 ) -> RoadmapStageResponse:
 
     try :

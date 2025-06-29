@@ -58,9 +58,11 @@ class Evaluation(Base):
     evaluation_id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
     theme_id: Mapped[int] = mapped_column(ForeignKey("bwab_theme.theme_id"))
     roadmap_stage_id: Mapped[int] = mapped_column(ForeignKey("bwab_roadmap_stage.roadmap_stage_id"), nullable=True)
-    questions: Mapped[JSON] = mapped_column(JSON, nullable=False)
-    answers: Mapped[JSON] = mapped_column(JSON, nullable=True)
+    #questions: Mapped[JSON] = mapped_column(JSON, nullable=False)
+    #answers: Mapped[JSON] = mapped_column(JSON, nullable=True)
     score: Mapped[float] = mapped_column(DECIMAL(5, 2))
+    questions: Mapped[dict] = mapped_column(JSONB, nullable=False)
+    answers: Mapped[dict] = mapped_column(JSONB, nullable=True)
     created_at: Mapped[datetime.datetime] = mapped_column(
         DateTime, default=lambda: datetime.datetime.now(datetime.timezone.utc))
     updated_at: Mapped[datetime.datetime] = mapped_column(
